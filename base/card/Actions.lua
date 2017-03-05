@@ -1,0 +1,3 @@
+function singleAttack(CounterType)
+
+end
